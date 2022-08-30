@@ -2,7 +2,7 @@
 
 The dataset used here is "https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries"
 
-This analysis works through, Data cleaning, Standardizing data to further perform analysis
+This could be descriptive or prescriptive analysis based on how it is used.This analysis works through, Data cleaning, Standardizing data to further perform analysis
 It answers the questions :
 1) What region offers the most job opportunities in particular categories?
 2) How has the average salary changed over the years 2020,2021, 2022 in each particular category?
